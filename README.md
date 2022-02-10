@@ -1,6 +1,6 @@
 # Hi there 🙋🏼‍♀️ 
 
-My name is Shirley Rodrigues, I currently live in São Paulo, Brazil 🇧🇷 I am 27 years old, I have a degree in Information Systems 🎓
+My name is Shirley Rodrigues, I currently live in São Paulo, Brazil 🇧🇷 I am 28 years old, I have a degree in Information Systems 🎓
 
 I've been working as Site Reliability Engineering (SRE) at Hash. I'm currently learning Kubernetes and Go 👩🏼‍💻📖
 
