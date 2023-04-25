@@ -2,7 +2,7 @@
 
 My name is Shirley Rodrigues, I currently live in São Paulo, Brazil 🇧🇷 I am 28 years old, I have a degree in Information Systems 🎓
 
-I've been working as Site Reliability Engineering (SRE) at Hash. I'm currently learning Kubernetes and Go 👩🏼‍💻📖
+I've been working as Site Reliability Engineering (SRE) at PagSeguro PagBank. I'm currently learning Kubernetes, Python and Go 👩🏼‍💻📖
 
 I love learning new things and technologies 🤓. In my free time I like to travel ✈🧳, to watch movies 📺, to read books 📚 and sometimes drink a beer 🍺
 
